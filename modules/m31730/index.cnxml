@@ -1,0 +1,196 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Build a hydraulic system</title>
+  <metadata>
+  <md:content-id>m31730</md:content-id><md:title>Build a hydraulic system</md:title>
+  <md:abstract/>
+  <md:uuid>80f898f5-353f-4358-9c00-d8e123dfaeca</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8431848">TECHNOLOGY</para>
+    <para id="id8431853">Grade 9</para>
+    <para id="id8430060">HYDRAULIC AND PNEUMATIC SYSTEMS</para>
+    <para id="id8429232">Module 13</para>
+    <para id="id8430328">TO BUILD A HYDRAULIC SYSTEM</para>
+    <para id="id8430333"> Use the working drawing and build a model of a hydraulic system that is connected to a lever.</para>
+    <figure id="id8345545">
+      <media id="id8345545_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-b24c.png" id="id8345545__onlineimage" height="324" width="606"/>
+      </media>
+    </figure>
+    <para id="id8430156">You need:</para>
+    <para id="id8514327">1 x 10 mℓ plastic syringe</para>
+    <para id="id8429779">1 x 20 mℓ plastic syringe</para>
+    <para id="id8431605">plastic tube (length as necessary)</para>
+    <para id="id8495788">a long nail</para>
+    <para id="id8430209">corrugated cardboard (Remember all the principles of reinforcing.)</para>
+    <para id="id8430213">a pair of scissors, glue, masking tape, adhesive tape</para>
+    <para id="id8432284">PROJECT: </para>
+    <para id="id8529373">THE TECHNOLOGICAL PROCESS</para>
+    <para id="id8529298">[LO 1.1, 3.2]</para>
+    <para id="id8529102">Use your knowledge of structures and / or electronics and / or mechanisms and integrate it with your knowledge and experience of hydraulic or pneumatic systems to solve ONE of the problems presented in the following situations. The problem must be solved in terms of a TECHNOLOGICAL PROCESS and be presented in a PORTFOLIO.</para>
+    <para id="id8542461">For the PRACTICAL WORK a prototype (as inexpensive as possible) must be built. This prototype must be able to function.</para>
+    <para id="id8532013">Use the assessment scales / matrixes to make sure that you comply with the requirements of the process.</para>
+    <para id="id8431177">Situation I</para>
+    <para id="id8433532">Your neighbourhood is plagued by blowflies. The residents of the neighbourhood have been asked in a number of newspaper reports to help combat the problem by keeping their dirt-bins tightly closed. However, it is not as easy as it seems. Stray cats that force their way into the bins and leave them open, are only part of the problem. The other great cause for concern is that germs are spread by these flies.</para>
+    <para id="id8532387">One of the residents came to the conclusion that he would have to design something that would make it possible for him to open the dirt-bin from a distance, and that would also warn him when the lid is open.</para>
+    <para id="id8428983">Situation II</para>
+    <para id="id8431734">Physically disadvantaged people often find it quite difficult to open the doors in cloak­rooms that have been specially provided for their use. Physically disadvantaged persons are usually only able to carry out a pushing motion using their hands, a walking-stick or the wheels of their wheel-chairs. This action must then enable them to open a door.</para>
+    <para id="id8345723">Situation III</para>
+    <para id="id8553606">Sticking stamps on an envelope can be very time-consuming and tiring when it is done on a large scale. A device that sticks the stamp and indicates that the task has been success­fully completed, could solve the problem.</para>
+    <para id="id8553129">Steps of the Technological Problem that have to be followed:</para>
+    <para id="id8553298">1. SURVEY</para>
+    <para id="id8499260">1.1 ANALYSIS OF DESIGN PROPOSAL</para>
+    <para id="id8428843">Core of the problem</para>
+    <para id="id8495770">WHAT shall I do?</para>
+    <para id="id8524623">WHO will use it?</para>
+    <para id="id8524627">WHEN will it be used?</para>
+    <para id="id8543289">WHERE will it be used?</para>
+    <para id="id8543214">WHY will it be used? </para>
+    <para id="id8528928">[LO 1.1]</para>
+    <para id="id8528933">1.2 DESIGN PROPOSAL</para>
+    <para id="id8529176">Design and manufacture … what, for whom, where, why and when.</para>
+    <para id="id8529020">1.3 LIMITATIONS AND SPECIFICATIONS</para>
+    <para id="id8542549">Limitations: Requirements that limit the choice of solutions.</para>
+    <para id="id8542320">Specifications: Include limitations that are determined by the learner him- / herself. This is a list of factors that determine what the end product will look like and how it will function. </para>
+    <para id="id8535181">2. DEVELOPMENT OF IDEAS</para>
+    <para id="id8430224">2.1 RESEARCH</para>
+    <para id="id8514360">Research has to do with the skill of collecting data, noting it, analysing it and making decisions on the basis of the processed data.</para>
+    <para id="id8553745">Make a list of all the information that you need to develop your ideas.</para>
+    <para id="id8553749">Here are a few suggestions to help you:</para>
+    <para id="id8432519">STRUCTURES:</para>
+    <para id="id8500031">Materials that are available.</para>
+    <para id="id8500035">How can the materials be reinforced?</para>
+    <para id="id8500020">How are the different materials used?</para>
+    <para id="id8430089">ELECTRONICS</para>
+    <para id="id8431464">Which functions can be performed electronically?</para>
+    <para id="id8431468">Which electronic components are needed?</para>
+    <para id="id8433096">MECHANICAL SYSTEMS</para>
+    <para id="id8436298">Which mechanical advantage is required and how can you create it?</para>
+    <para id="id8436284">Surveys on the effect of different variables, e.g. gear ratios: conduct a study of gears of different sizes and determine the mechanical advantage.</para>
+    <para id="id8432957">PNEUMATIC AND HYDRAULIC SYSTEMS</para>
+    <para id="id8432961">What are the advantages and disadvantages of each system?</para>
+    <para id="id8429735">How easily can the system be combined with the structure or electronic system under consideration?</para>
+    <para id="id7475284">What function will the hydraulic or pneumatic system perform?</para>
+    <para id="id8433081">[LO 1.2, 1.3, 1.4] </para>
+    <para id="id8433086">2.2 DEVELOPING THREE IDEAS</para>
+    <para id="id8345734">Develop three ideas that could possibly offer solutions to the problem. The ideas must be creative and fall within the framework of the situation, limitations and specifications.</para>
+    <para id="id7792045">Present them graphically. All notes and captions must be supplied. A scale, 3-D sketches and shading are required.</para>
+    <para id="id8529438">[LO 1.5]</para>
+    <para id="id7134201">2.3 EVALUATING THE IDEAS</para>
+    <para id="id8431206">Evaluate the three above-mentioned ideas by referring to the situation, limitations and specifications.</para>
+    <para id="id8535192">Pay attention to the way in which the data are handled.</para>
+    <para id="id8532232">Present the data in the form of a table.</para>
+    <para id="id8532236">2.4 CHOICE AND MOTIVATION</para>
+    <para id="id8345823">Make an informed choice and give reasons for your choice.</para>
+    <para id="id8432344">Present the work in paragraphs.</para>
+    <para id="id7888965">[LO 1.6]</para>
+    <para id="id7888969">3. REALISATION</para>
+    <para id="id8430568">3.1 Draw a final design of the idea that has been selected.</para>
+    <para id="id8433333">3.2 Draw a flow diagram to indicate the order in which the final idea is to be constructed.</para>
+    <para id="id8431866">3.3 Provide a time schedule for the above-mentioned activities.</para>
+    <para id="id8430268">3.4 Make a list of the material and the tools that are needed.</para>
+    <para id="id8433386">3.5 Determine the cost by finding out how much material is required for the model, then find out the price of the material and submit a costing.</para>
+    <para id="id8430319">3.6 Draw very clear working drawings. All notes and captions must be supplied. 3-D sketches and shading are required.</para>
+    <para id="id8514449">3.7 Construct the prototype.</para>
+    <para id="id8499338">[LO 1.7, 1.8, 1.9, 1.10, 1.12]</para>
+    <para id="id8431551">4. EVALUATION: </para>
+    <para id="id8432843">4.1 Comment fully on the design achievements of the prototype.</para>
+    <para id="id8532350">4.2 Discuss the shortcomings of the prototype.</para>
+    <para id="id8428880">4.3 Make recommendations for the improvement of the prototype and design.</para>
+    <para id="id8524192">[LO 1.3] </para>
+    <para id="id8524196">5. VALUES AND ATTITUDES</para>
+    <para id="id8430901">5.1 Discuss the advantages that such a device could have for the community.</para>
+    <para id="id8431503">5.2 Discuss the disadvantages that such a device could have for the environment. (Consider issues such as pollution.)</para>
+    <para id="id8532202">{LO 3.2] </para>
+    <para id="id8532207">Assessment</para>
+    <table id="id8429282" summary="">
+      <tgroup cols="1">
+        <colspec colnum="1" colname="c1"/>
+        <tbody>
+          <row>
+            <entry>Learning outcomes(LOs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>LO 1</entry>
+          </row>
+          <row>
+            <entry>TECHNOLOGICAL PROCESSES AND SKILLSThe learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technology.</entry>
+          </row>
+          <row>
+            <entry>Assessment standards(ASs)</entry>
+          </row>
+          <row>
+            <entry/>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>investigates:1.1 identifies and explains a problem, need or opportunity from a real-life context, and investigates the context, the nature of the need, the environmental situation, and the people concerned;</entry>
+          </row>
+          <row>
+            <entry>1.2 analyses existing products relevant to an identified problem, need or opportunity based on:safety;fitness for purpose;cost;manufacturing method;</entry>
+          </row>
+          <row>
+            <entry>1.3 develops and performs practical testing proce­dures to determine or compare the suitability or fitness for purpose of relevant properties of materials, electrical or mechanical systems, structures, processes or finished products;</entry>
+          </row>
+          <row>
+            <entry>1.4 uses a variety of available technologies and methods to:locate (e.g. use library referencing system, database searches, indexes);collect (e.g. questionnaires, data collection forms, requests for information, information, searches, literature surveys);compare;sort;verify;evaluate (e.g. cross-checking different sources or resources);store information (e.g. filing systems, indexes);</entry>
+          </row>
+          <row>
+            <entry>designs:1.5 writes or communicates a short and clear statement or a design brief for the development of a product or system related to a context, problem, need or opportunity that has been identified by self;</entry>
+          </row>
+          <row>
+            <entry>1.6 lists product and design specifications and constraints for a solution based on all of the design key words listed below:purpose: function, what product will do;appearance and aesthetics: form, colour, shape, feel;</entry>
+          </row>
+          <row>
+            <entry>1.7 generates a range of possible solutions that are significantly different from each other, and that show clear links to the design brief and the specifications and constraints;</entry>
+          </row>
+          <row>
+            <entry>1.8 chooses possible solutions based on well-reasoned argument related to the specifications and personal options, develops a chosen idea using graphics;</entry>
+          </row>
+          <row>
+            <entry>makes:1.9 develops plans for making that include all of the following:resource lists;formal drawings showing dimensions or quantities;manufacturing sequence;</entry>
+          </row>
+          <row>
+            <entry>1.10 chooses and uses appropriate tools and materials to make designed products with precision and control by measuring, marking, cutting or separating, shaping or forming, joining or combining, and finishing a range of materials accurately and efficiently;</entry>
+          </row>
+          <row>
+            <entry>1.11 uses measuring and checking procedures while making to monitor quality and changes, and adapts designs in response to practical difficulties encountered when making products;</entry>
+          </row>
+          <row>
+            <entry>1.12 demonstrates knowledge and understanding of safe working practices and efficient use of safe working practices and efficient use of materials and tools.</entry>
+          </row>
+          <row>
+            <entry>LO 2</entry>
+          </row>
+          <row>
+            <entry>TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDINGThe learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>systems and control:2.3 demonstrates knowledge and understanding of interacting mechanical systems and sub-systems by practical analysis and represents them using systems diagrams:gear systemsbelt drive or pulley systems with more than one stage;mechanical control mechanisms (e.g. ratchet and pawl, cleats);pneumatic or hydraulic systems that use restrictorsone-way valves;systems where mechanical, electrical, or pneumatic or hydraulic systems are combined.</entry>
+          </row>
+          <row>
+            <entry>LO 3</entry>
+          </row>
+          <row>
+            <entry>TECHNOLOGY, SOCIETY AND THE ENVIRONMENT The learner will be able to demonstrate an understanding of the interrelationships between science, technology and the environment.</entry>
+          </row>
+          <row>
+            <entry>We know this when the learner:</entry>
+          </row>
+          <row>
+            <entry>impact of Technology:3.2 recognises and identifies the impact of technological developments on the quality of people’s lives and on the environment in which they live, and suggests strategies for reducing and undesirable effects.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

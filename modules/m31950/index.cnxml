@@ -1,0 +1,199 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Cams</title>
+  <metadata>
+  <md:content-id>m31950</md:content-id><md:title>Cams</md:title>
+  <md:abstract/>
+  <md:uuid>8c675230-b9cd-43a9-8f27-39aa399fb8d9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15792502">
+      <title>TECHNOLOGY</title>
+      <para id="para-id15792502">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15792509">
+      <title>Grade 9</title>
+      <para id="para-id15792509">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15792517">
+      <title>MECHANISMS AND MOTION</title>
+      <para id="para-id15792517">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15792525">
+      <title>Module 4</title>
+      <para id="para-id15792525">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15792532">
+      <title>CAMS</title>
+      <list id="id15792539" list-type="bulleted">
+        <item>Cams, change one type of motion into another. There are two types, linear and rotary. Rotary cams are very common in machines and are used to change rotary motion into reciprocating motion. Cams are asymmetrical forms that are fixed on a rotating shaft. The form, size and position of the shaft in the cam will determine the distance and movement of the output shaft attached to the follower. A follower follows the cam that gives the desired output.</item>
+      </list>
+      <para id="id15783526">
+        <figure id="id15783531">
+          <media id="id15783531_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-716b.png" id="id15783531__onlineimage" height="263" width="229"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id15783553">Rotary or circular cams</para>
+      <list id="id15783558" list-type="bulleted">
+        <item>These cams change rotary motion into reciprocating (backwards and forwards) motion. They are usually made from metal or plastic and are fitted on a shaft. A spring or the weight on the follower keeps it on the cam. Rotary cams can vary in shape from circular to heart and pear shapes.</item>
+      </list>
+      <figure id="id15783583">
+        <media id="id15783583_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-5007.png" id="id15783583__onlineimage" height="223" width="514"/>
+        </media>
+      </figure>
+      <para id="id15809624">Linear Cams</para>
+      <list id="id15809629" list-type="bulleted">
+        <item>These cams change the direction of reciprocating motion. The cam can have any profile and moves backwards and forwards while the follower follows the profile. With these cams the follower normally has a small wheel to allow the movement to be smooth.</item>
+      </list>
+      <para id="id15809648">
+        <figure id="id15809652">
+          <media id="id15809652_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3-c5d8.png" id="id15809652__onlineimage" height="299" width="307"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id15809674" list-type="bulleted">
+        <item>Input rotary motion can be obtained by fitting a crank to the handle. The output movement depends on various factors. The sketches below illustrate three different ways of getting output movement.</item>
+      </list>
+      <para id="id15802022">1. Cam operated – up and down movement</para>
+      <figure id="id15802033">
+        <media id="id15802033_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-ca30.png" id="id15802033__onlineimage" height="220" width="264"/>
+        </media>
+      </figure>
+      <para id="id15802055">2. Friction wheel - shaft pins</para>
+      <figure id="id15802070">
+        <media id="id15802070_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-411a.png" id="id15802070__onlineimage" height="227" width="252"/>
+        </media>
+      </figure>
+      <para id="id15770530">3. Wheel and connecting rod</para>
+      <figure id="id15770539">
+        <media id="id15770539_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-5987.png" id="id15770539__onlineimage" height="237" width="287"/>
+        </media>
+      </figure>
+      <list id="id15770561" list-type="bulleted">
+        <item>By applying the basic principles you can easily construct a hand operated mechanism without becoming too technical.</item>
+      </list>
+      <para id="id15770574">
+        <figure id="id15770578">
+          <media id="id15770578_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7-dbe6.png" id="id15770578__onlineimage" height="328" width="388"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id15770600">The Crank</para>
+      <list id="id15770604" list-type="bulleted">
+        <item>The steam engine is a good example of the crank mechanism (crank/slider). The crank uses the wheel and axle principle. Can you all remember pedalling on your first tricycle? The wheel and pedal shaft is a good example of a crank.</item>
+      </list>
+      <figure id="id15794538">
+        <media id="id15794538_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-8c45.png" id="id15794538__onlineimage" height="282" width="282"/>
+        </media>
+      </figure>
+      <list id="id15794560" list-type="bulleted">
+        <item>Several crank handles can be put together to form a crankshaft. The crankshaft forms a very important function in basically every machine with moving parts. The pistons in a car are pushed up and down by the crankshaft.</item>
+      </list>
+      <figure id="id15794582">
+        <media id="id15794582_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-9369.png" id="id15794582__onlineimage" height="320" width="384"/>
+        </media>
+      </figure>
+      <para id="id15783027"> Activity1</para>
+      <list id="id15783036" list-type="enumerated" number-style="arabic">
+        <item>Make a simple sketch of a crank handle that you can use in a hand operated mechanical toy.</item>
+        <item>Draw three different shapes of cams. Also illustrate the difference each will have in the output movement.</item>
+        <item>Give two examples where cams and cranks are used in machines.</item>
+      </list>
+      <para id="id15783071"/>
+      <para id="id15783075"/>
+      <table id="id15783079" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id15810013">
+      <title>Assessment</title>
+      <table id="id15810020" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</emphasis>The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>systems and control:2.3 demonstrates knowledge and understanding of interacting mechanical systems and sub-systems by practical analysis and represents them using system diagrams:<list id="id15811761" list-type="bulleted"><item>gear systems;</item><item>belt drive pulley systems with more than one stage;</item><item>mechanical control mechanism (e.g. ratchet and pawl, cleats);</item><item>pneumatic or hydraulic systems that use restrictors;</item><item>one-way valves;</item><item>systems where mechanical, electrical or pneumatic or hydraulic systems are combined;</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id15811805">
+      <title>Memorandum</title>
+      <para id="id15811812"> ACTIVITY 1</para>
+      <para id="id15811817">1.<figure id="id15799577"><media id="id15799577_media" alt=""><image mime-type="image/png" src="../../media/Picture 36.png" id="id15799577__onlineimage" height="72" width="188"/></media></figure></para>
+      <para id="id15799599">2.  </para>
+      <figure id="id15799609">
+        <media id="id15799609_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 38.png" id="id15799609__onlineimage" height="98" width="123"/>
+        </media>
+      </figure>
+      <figure id="id15799634">
+        <media id="id15799634_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 39.png" id="id15799634__onlineimage" height="98" width="129"/>
+        </media>
+      </figure>
+      <para id="id15733570">3.</para>
+      <list id="id15733574" list-type="bulleted">
+        <item>Crank-handle ------- crankshaft / tricycle</item>
+        <item>Cam ------- Cam on camshaft</item>
+      </list>
+    </section>
+  </content>
+</document>

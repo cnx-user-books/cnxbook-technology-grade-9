@@ -1,0 +1,318 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Pulleys and gears</title>
+  <metadata>
+  <md:content-id>m23856</md:content-id><md:title>Pulleys and gears</md:title>
+  <md:abstract/>
+  <md:uuid>ac1ef8ab-9624-488c-ada8-f0d32f61375f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8580883">
+      <title>TECHNOLOGY</title>
+      <para id="para-id8580883">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168923776536">
+      <title>Grade 9</title>
+      <para id="para-id1168923776536">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168923352378">
+      <title>MECHANISMS AND MOTION</title>
+      <para id="para-id1168923352378">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1168923220317">
+      <title>Module 3</title>
+      <para id="para-id1168923220317">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4774421">
+      <title>Pulleys and Gears</title>
+      <list id="id6777239" list-type="bulleted">
+        <item>Pulleys and gears are used to transfer rotary motion from one place to another. Both are wheels. Pulleys are wheels with grooves in the rims, in which a belt or rope can run. Pulleys can transfer rotary motion from one shaft to another or can be used to lift heavy loads.</item>
+        <item>Gears are wheels with teeth evenly spaced around the rims. Several gears can be placed, so that their teeth interlock, or mesh. When two or more gears are used together, they form what is called a gear train. Gears can be used to change the speed and direction in which something rotates. When chains are used to connect the “gears”, a chain and sprocket system is formed, for example on bicycles and motorcycles.Simple pulley<figure id="id7899205"><media id="id7899205_media" alt=""><image mime-type="image/png" src="../../media/Picture 1-b065.png" id="id7899205__onlineimage" height="133" width="300"/></media></figure>Twisted pulley<figure id="id1168925577975"><media id="id1168925577975_media" alt=""><image mime-type="image/png" src="../../media/Picture 2-7d8a.png" id="id1168925577975__onlineimage" height="144" width="300"/></media></figure>Compound pulley<figure id="id1168923777415"><media id="id1168923777415_media" alt=""><image mime-type="image/png" src="../../media/Picture 3-60ef.png" id="id1168923777415__onlineimage" height="134" width="275"/></media></figure>Two gears<figure id="id8031214"><media id="id8031214_media" alt=""><image mime-type="image/png" src="../../media/Picture 4-c8e7.png" id="id8031214__onlineimage" height="140" width="274"/></media></figure>A Gear train<figure id="id8012707"><media id="id8012707_media" alt=""><image mime-type="image/png" src="../../media/Picture 5-47a4.png" id="id8012707__onlineimage" height="131" width="300"/></media></figure></item>
+      </list>
+      <para id="id1168925660735">Compound gears</para>
+      <para id="id1168923942563">
+        <figure id="id5332215">
+          <media id="id5332215_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 6-f2d2.png" id="id5332215__onlineimage" height="124" width="299"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7778227">Rack &amp; Pinion</para>
+      <figure id="id1168924956681">
+        <media id="id1168924956681_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-c94b.png" id="id1168924956681__onlineimage" height="151" width="342"/>
+        </media>
+      </figure>
+      <para id="id1168923776188">Worm and wheel</para>
+      <figure id="id8957571">
+        <media id="id8957571_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9-2e09.png" id="id8957571__onlineimage" height="172" width="187"/>
+        </media>
+      </figure>
+      <para id="id1168923280038">Bevel gears</para>
+      <figure id="id6690108">
+        <media id="id6690108_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-0066.png" id="id6690108__onlineimage" height="167" width="152"/>
+        </media>
+      </figure>
+      <para id="id8610454"/>
+      <para id="id1168922968818">Gear Systems </para>
+      <figure id="id1168925462239">
+        <media id="id1168925462239_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10.png" id="id1168925462239__onlineimage" height="204" width="409"/>
+        </media>
+      </figure>
+      <list id="id5897670" list-type="bulleted">
+        <item>The illustration shows gears fixed to parallel shafts, forming a simple gear train. The gear fixed on the drive shaft is called the driver gear and is connected to the driven gear. The shafts will turn in opposite directions and, because the gears have different sizes, they will turn at different speeds. The difference in their speeds (velocity ratio) can be calculated from the number of teeth on each gear.<figure id="id8587901"><media id="id8587901_media" alt=""><image mime-type="image/png" src="../../media/Picture 11.png" id="id8587901__onlineimage" height="42" width="533"/></media></figure></item>
+        <item>This means that in this case the driver shaft must turn twice for the driven shaft to complete one turn. </item>
+      </list>
+      <para id="id1168922922499">Pulley Systems</para>
+      <list id="id1168925125328" list-type="bulleted">
+        <item>Pulley systems use a belt to transmit motion and force from the driver shaft to the driven shaft. Cars use a pulley system with V-belts running in grooves on the pulley wheels. Speed changes are made by using different sizes of pulleys on the driver and driven shafts respectively. By comparing the sizes of the two pulleys you can calculate the velocity ratio (VR) of the system.</item>
+        <item>If the diameter of the driver pulley in a pulley system is 100 mm and that of the driven pulley 25 mm,</item>
+      </list>
+      <figure id="id1168926278027">
+        <media id="id1168926278027_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12.png" id="id1168926278027__onlineimage" height="42" width="453"/>
+        </media>
+      </figure>
+      <list id="id7207636" list-type="bulleted">
+        <item>This means that one turn of the driver shaft will give four turns of the driven shaft. The speed of the driven shaft can be calculated as follows:</item>
+      </list>
+      <figure id="id1168925067481">
+        <media id="id1168925067481_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 13.png" id="id1168925067481__onlineimage" height="42" width="391"/>
+        </media>
+      </figure>
+      <list id="id6776670" list-type="bulleted">
+        <item>If the input speed is 2000rpm and the VR 1:4 the output speed is 8000 rpm.</item>
+      </list>
+      <para id="id1168923867745"> Activity 1</para>
+      <para id="id8501885">1. Add arrows to the sketches to indicate the output direction.</para>
+      <figure id="id1168925245603">
+        <media id="id1168925245603_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 14.png" id="id1168925245603__onlineimage" height="326" width="239"/>
+        </media>
+      </figure>
+      <figure id="id1168924962332">
+        <media id="id1168924962332_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 15.png" id="id1168924962332__onlineimage" height="280" width="239"/>
+        </media>
+      </figure>
+      <list id="id6543560" list-type="enumerated" number-style="arabic">
+        <item>Sketch the cross-section of a V-belt and pulley.</item>
+        <item>Give two examples of the use of pulley systems.</item>
+      </list>
+      <para id="id8167402"/>
+      <para id="id1168925068526"/>
+      <list id="id1168925665385" list-type="enumerated" number-style="arabic">
+        <item>The figure shows two gears in mesh:</item>
+      </list>
+      <figure id="id6169080">
+        <media id="id6169080_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 16.png" id="id6169080__onlineimage" height="240" width="310"/>
+        </media>
+      </figure>
+      <para id="id1168925019996">4.1 If the input speed is 1 250 rpm what is the output speed?</para>
+      <para id="id1168924757824"/>
+      <para id="id4994852">4.2 How could the driver and driven gears be made to rotate in the same direction?</para>
+      <para id="id5934254"/>
+      <para id="id1168925114328"/>
+      <list id="id8162133" list-type="enumerated" number-style="arabic">
+        <item>What are the advantages and disadvantages of chain and sprocket systems compared to pulley systems?</item>
+      </list>
+      <table id="id1168922844819" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Advantages</entry>
+              <entry>Disadvantages</entry>
+            </row>
+            <row>
+              <entry>Chain and sprocket systems</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Pulley systems</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1168922932866" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168925603219">
+      <title>Assessment</title>
+      <table id="id1168925019355" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</emphasis>The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>systems and control:2.3 demonstrates knowledge and understanding of interacting mechanical systems and sub-systems by practical analysis and represents them using system diagrams:<list id="id1168923775260" list-type="bulleted"><item>gear systems;</item><item>belt drive pulley systems with more than one stage;</item><item>mechanical control mechanism (e.g. ratchet and pawl, cleats);</item><item>pneumatic or hydraulic systems that use restrictors;</item><item>one-way valves;</item><item>systems where mechanical, electrical or pneumatic or hydraulic systems are combined;</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1168923853505">
+      <title>Memorandum</title>
+      <para id="id8407432"> ACTIVITY 1</para>
+      <table id="id1168925245762" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>1.</entry>
+              <entry>
+                <media id="id1168923928059" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 21-e6dc.png"/>
+                </media>
+                <media id="id1168925605376" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 22-52ed.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <media id="id1168925280906" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 23-e6dc.png"/>
+                </media>
+                <media id="id3666629" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 24-3d01.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <media id="id1168925562853" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 25-e6dc.png"/>
+                </media>
+                <media id="id1168923054806" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 26-52ed.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <media id="id6530175" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 27-e6dc.png"/>
+                </media>
+                <media id="id1168922827726" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 28-3d01.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <media id="id1168924635907" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 29-e6dc.png"/>
+                </media>
+                <media id="id1168923297207" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 30-52ed.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <media id="id6492765" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 31.png"/>
+                </media>
+                <media id="id1168922923284" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 32.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>
+                <media id="id8522128" alt="">
+                  <image mime-type="image/png" src="../../media/Picture 33.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1168922847157">2.<figure id="id1168925196302"><media id="id1168925196302_media" alt=""><image mime-type="image/png" src="../../media/Picture 34.png" id="id1168925196302__onlineimage" height="61" width="123"/></media></figure></para>
+      <list id="id7996853" list-type="enumerated" number-style="arabic">
+        <item>Drilling machine, Block and tackle</item>
+      </list>
+      <list id="id1168925200199" list-type="bulleted">
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>80</m:mtext><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mfrac><m:mtext>1250</m:mtext><m:mn>1</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"80"}  over  {4} }  times  {  {"1250"}  over  {1} } } {}</m:annotation></m:semantics></m:math> = 250 ohm</item>
+        <item>Insert idling gear</item>
+      </list>
+      <para id="id7336366">4. Advantages of tooth gears and chains</para>
+      <list id="id1168923734207" list-type="bulleted">
+        <item>Greater forces can be transferred</item>
+        <item>Chains do not slip/slide</item>
+        <item>Chains can be disassembled for removal</item>
+      </list>
+      <para id="id5020689">5.Advantages of pulleys and belts</para>
+      <list id="id1168925141554" list-type="bulleted">
+        <item>Belts are not noisy</item>
+        <item>Belts can be stretched for fitting and for removal</item>
+        <item>Crossed belts can change the direction of rotation</item>
+      </list>
+    </section>
+  </content>
+</document>

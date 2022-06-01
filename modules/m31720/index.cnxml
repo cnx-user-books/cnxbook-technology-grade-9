@@ -1,0 +1,244 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>How hydraulic systems work</title>
+  <metadata>
+  <md:content-id>m31720</md:content-id><md:title>How hydraulic systems work</md:title>
+  <md:abstract/>
+  <md:uuid>50706f34-127e-4aec-a8c4-13d383aebdf9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171102876000">
+      <title/>
+      <para id="para-id1171102876000">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171091574351">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1171091574351">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7534844">
+      <title>Grade 9</title>
+      <para id="para-id7534844">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171102489712">
+      <title>HYDRAULIC AND PNEUMATIC SYSTEMS</title>
+      <para id="para-id1171102489712">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171096298400">
+      <title>Module 10</title>
+      <para id="para-id1171096298400">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171104193495">
+      <title>HOW HYDRAULIC SYSTEMS WORK</title>
+      <para id="id3305603">ACTIVITY 1: </para>
+      <para id="id2992024">To be able to describe how a hydraulic system works</para>
+      <para id="id3916268">[LO 1.3, 2.3]</para>
+      <para id="id1171094597036">Pneumatic and hydraulic systems are systems that exert control so that the input-output relationship changes in such a way that tasks can be done faster with less force.</para>
+      <para id="id1171092532840">There are two kinds of hydraulic systems:</para>
+      <para id="id1171102534537">An open hydraulic system contains a liquid that is placed under pressure, for example water and a garden hose with a pressure nozzle.The system can also contain water that flows in a pipe when there is a difference in pressure, between the two ends of the pipe. Just think of the great advantage this device offers to farmers.</para>
+      <para id="id6940217">A closed hydraulic system: This consists of a sealed unit containing two pistons that are connected to each other by means of a pipe or reservoir. An input force on the smaller piston is transmitted in all directions by the liquid and imparts an output force on the larger piston. Because the pressure is transmitted in all directions in the liquid, the larger piston can have a greater output because of its larger area. All hydraulic systems work according to this principle.</para>
+      <para id="id2513356">
+        <figure id="id2404946">
+          <media id="id2404946_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-d01f.png" id="id2404946__onlineimage" height="239" width="232"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1171098935179">A syringe can also be used to illustrate the way in which a hydraulic system works.</para>
+      <figure id="id1171095277270">
+        <media id="id1171095277270_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-d4aa.png" id="id1171095277270__onlineimage" height="135" width="478"/>
+        </media>
+      </figure>
+      <para id="id8880972">The piston on which the pressure is exerted, is called the master, or input, piston and the syringe that experiences the effect, is called the server, or output, piston.</para>
+      <para id="id7120841">In your own words, describe how a hydraulic system works. Also give two examples of hydraulic systems that are commonly used.</para>
+      <para id="id1171101076582">ACTIVITY 2: </para>
+      <para id="id1171099439129">To examine the transmission of pressure in a hydraulic system and to be able to describe it</para>
+      <para id="id1171103871766">[LO 1.3, 2.3]</para>
+      <para id="id1171096147828">You need the following items for this research:</para>
+      <para id="id1171100396927">2 x 10 mℓ plastic syringes marked A and B</para>
+      <para id="id1171096772256">1 x plastic tube</para>
+      <para id="id1171099064907">Connect the cylinders as indicated in the figure and fill the system with water.</para>
+      <para id="id1171106768712">Wet both ends of the plastic tube and fix it to the syringes as indicated in the drawing.</para>
+      <para id="id1171095121553">
+        <figure id="id1171101931757">
+          <media id="id1171101931757_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-0803.png" id="id1171101931757__onlineimage" height="134" width="622"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id4460417">1. Push the plunger of cylinder I in to a level of 2 cm deep. Make a note of your observation of the distance output in cylinder B.</para>
+      <para id="id1171093729119"/>
+      <para id="id2772334">2. Push the plunger of cylinder B in to a level of 2 cm deep. Make a note of the distance output in syringe A.</para>
+      <para id="id5628697"/>
+      <para id="id1171105877470">3. Has any mechanical advantage been observed?</para>
+      <para id="id1171104857556"/>
+      <para id="id3549024">4. Summary: The transmission of pressure in a hydraulic system.</para>
+      <para id="id1171101555657"/>
+      <para id="id7241264">ACTIVITY 3: </para>
+      <para id="id1171105032662">To examine the functioning of a pneumatic system and to compare it with that of a hydraulic system</para>
+      <para id="id1171104395957">[LO 1.3, 2.3]</para>
+      <para id="id1171103667395">Dry plastic syringes A and B and repeat the investigation done in Activity 2. This time draw up air into the cylinders instead of water.</para>
+      <para id="id1171095382348">1. What similarities exist between hydraulic and pneumatic systems?</para>
+      <para id="id1171101061097"/>
+      <para id="id1171105287403">2. What difference is there between the systems with regard to the effective transmission of the pressure?</para>
+      <para id="id4753946"/>
+      <para id="id5176451">ACTIVITY 4: </para>
+      <para id="id1171108205408">To examine the influence of the diameter of the piston disc on distance and power output and to be able to discuss it</para>
+      <para id="id1171102239990">[LO 1.3, 2.3] </para>
+      <para id="id1171093069436">You will need the following items for this investigation:</para>
+      <para id="id1171096980071">1 x 10 mℓ cylinder marked A</para>
+      <para id="id1171102360811">1 x 20 mℓ cylinder marked C</para>
+      <para id="id6310892">a tube</para>
+      <para id="id1171108036408">Connect the cylinders as indicated in the figure and fill the system with water.</para>
+      <figure id="id1171102704671">
+        <media id="id1171102704671_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-274e.png" id="id1171102704671__onlineimage" height="136" width="645"/>
+        </media>
+      </figure>
+      <para id="id1171103238960">1. Push the plunger of cylinder A in so that it goes in 2 cm. Make a note of your observation of the distance output in cylinder C.</para>
+      <para id="id1171105190524"> 2. Push the plunger of cylinder C in so that it goes in 2 cm. Make a note of your observation of the distance output in syringe A. </para>
+      <para id="id1171094625982">3. What do you think will happen if the hydraulic system is replaced by a pneumatic system?</para>
+      <para id="id1171096755785">4. Replace the water with cooking oil and make a note of the difference / similarity in the functioning of the system.</para>
+      <para id="id4023698">5. Explain the advantages of using oil rather than water.</para>
+      <para id="id8692829">6. Summary of the results observed.</para>
+      <para id="id1804533"/>
+      <para id="id6119086">ACTIVITY 5: </para>
+      <para id="id1171106106656">To examine the connection between output distance, output force and diameter of the cylinder of hydraulic and pneumatic systems consisting of three cylinders</para>
+      <para id="id2358740">[LO 1.3, 2.3]</para>
+      <para id="id6844276">You need the following items to conduct this experiment:</para>
+      <para id="id4640784">1 x 20 mℓ syringe marked C</para>
+      <para id="id1171102984569">2 x 10 mℓ syringes marked A and B</para>
+      <para id="id1171097750824">3 x connecting tubes of the same size</para>
+      <para id="id1171102867129">1 x T connection</para>
+      <para id="id1171094805212">Fill syringe C with 10 mℓ water and fill both syringes A and B with 5 mℓ water.</para>
+      <para id="id1171103002603">Connect the syringes as indicated in the sketch.</para>
+      <figure id="id1171093524562">
+        <media id="id1171093524562_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-dd2d.png" id="id1171093524562__onlineimage" height="262" width="649"/>
+        </media>
+      </figure>
+      <para id="id1171096278208">1. Press the plunger of syringe C in 2 cm and indicate the distance output of syringes A and B.</para>
+      <para id="id2407712"> 2. Write down your observation.</para>
+      <para id="id1171097194288"/>
+      <para id="id1171094700285">Summary of the findings of Activities 1 to 5</para>
+    </section>
+    <section id="id1171096251707">
+      <title>Assessment</title>
+      <table id="id6838056" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL PROCESSES AND SKILLSThe learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technology.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>investigates:1.1 identifies and explains a problem, need or opportunity from a real-life context, and investigates the context, the nature of the need, the environmental situation, and the people concerned;</entry>
+            </row>
+            <row>
+              <entry>1.2 analyses existing products relevant to an identified problem, need or opportunity based on:safety;fitness for purpose;cost;manufacturing method;</entry>
+            </row>
+            <row>
+              <entry>1.3 develops and performs practical testing proce­dures to determine or compare the suitability or fitness for purpose of relevant properties of materials, electrical or mechanical systems, structures, processes or finished products;</entry>
+            </row>
+            <row>
+              <entry>1.4 uses a variety of available technologies and methods to:locate (e.g. use library referencing system, database searches, indexes);collect (e.g. questionnaires, data collection forms, requests for information, information, searches, literature surveys);compare;sort;verify;evaluate (e.g. cross-checking different sources or resources);store information (e.g. filing systems, indexes);</entry>
+            </row>
+            <row>
+              <entry>designs:1.5 writes or communicates a short and clear statement or a design brief for the development of a product or system related to a context, problem, need or opportunity that has been identified by self;</entry>
+            </row>
+            <row>
+              <entry>1.6 lists product and design specifications and constraints for a solution based on all of the design key words listed below:purpose: function, what product will do;appearance and aesthetics: form, colour, shape, feel;</entry>
+            </row>
+            <row>
+              <entry>1.7 generates a range of possible solutions that are significantly different from each other, and that show clear links to the design brief and the specifications and constraints;</entry>
+            </row>
+            <row>
+              <entry>1.8 chooses possible solutions based on well-reasoned argument related to the specifications and personal options, develops a chosen idea using graphics;</entry>
+            </row>
+            <row>
+              <entry>makes:1.9 develops plans for making that include all of the following:resource lists;formal drawings showing dimensions or quantities;manufacturing sequence;</entry>
+            </row>
+            <row>
+              <entry>1.10 chooses and uses appropriate tools and materials to make designed products with precision and control by measuring, marking, cutting or separating, shaping or forming, joining or combining, and finishing a range of materials accurately and efficiently;</entry>
+            </row>
+            <row>
+              <entry>1.11 uses measuring and checking procedures while making to monitor quality and changes, and adapts designs in response to practical difficulties encountered when making products;</entry>
+            </row>
+            <row>
+              <entry>1.12 demonstrates knowledge and understanding of safe working practices and efficient use of safe working practices and efficient use of materials and tools.</entry>
+            </row>
+            <row>
+              <entry>LO 2</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDINGThe learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>systems and control:2.3 demonstrates knowledge and understanding of interacting mechanical systems and sub-systems by practical analysis and represents them using systems diagrams:gear systemsbelt drive or pulley systems with more than one stage;mechanical control mechanisms (e.g. ratchet and pawl, cleats);pneumatic or hydraulic systems that use restrictorsone-way valves;systems where mechanical, electrical, or pneumatic or hydraulic systems are combined.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171095699538">Memorandum</para>
+      <para id="id1171107991520"> ACTIVITY 1</para>
+      <para id="id1171093716655">A hydraulic system consists of two cylinders that are connected. Each cylinder contains a piston/plunger with a specific diameter and amount of liquid.</para>
+      <para id="id1171093197133">When the plunger is pushed in or drawn out, it causes a change in pressure that is propagated through the liquid. This pressure creates the mechanical force or kinetic advantage.</para>
+      <para id="id1171099972213"> ACTIVTY 2</para>
+      <para id="id1171092520152">1. distance of delivery of piston B is 2 cm</para>
+      <para id="id1171093796816">2. the same/similar</para>
+      <para id="id3402867">3. no, the force/power is transferred with equal advantage (advantage =1)</para>
+      <para id="id1171101957262">4. The pressure in cylinder A is transferred to cylinder B.</para>
+      <para id="id1171095439438"> ACTIVITY 3</para>
+      <para id="id1171091607807">1. The pressure is propagated from cylinder A to cylinder B.</para>
+      <para id="id1171093129114">2. The liquid/fluid propagates the pressure better than the air and offers greater resistance.</para>
+      <para id="id1171101937960"> ACTIVITY 4</para>
+      <para id="id1171093571256">1. 1 cm</para>
+      <para id="id1171091582326">2. 4 cm</para>
+      <para id="id1171094492146">3. k will propagate less easily and the distance of delivery will not be exactly 1 and 4 cm respectively because air is compressible.</para>
+      <para id="id5448916">4. &amp; 5. See synopsis</para>
+      <para id="id1171093440241">6. SYNOPSIS</para>
+      <para id="id1171095244914">With a piston that has a small diameter, the distance of delivery is great.</para>
+      <para id="id1171096326616">With a piston that has a greater diameter, the distance of delivery is small.</para>
+      <para id="id1171105164552">There will be better propagation of the pressure in the cylinder.</para>
+      <para id="id1171091881348">The density is greater and the force/power will therefore be propagated better than in water.</para>
+      <para id="id1171101588785"> ACTIVITY 5</para>
+      <para id="id2741078">1. 2 cm at A and B respectively</para>
+      <para id="id1171091606911">2. The output of two 10-ml syringes each filled with 5 ml of water will be the same as the output of one 20-ml syringe containing 10 ml of water. The larger 20-ml syringe can control two 10-ml syringes if it contains twice (2 x 10 ml) the amount of water.</para>
+      <para id="id1171092362757">SYNOPSIS: ACTIVITY 1 – 5</para>
+      <para id="id5564062">A small force on a small piston/plunger produces a great force on a large piston/plunger.</para>
+      <para id="id3571858">A small piston/plunger will move over a large distance and a large piston/plunger over a small distance.</para>
+      <para id="id1171104935312">The larger piston/plunger is able to control a number of smaller pistons/plungers if its volume is equal to the sum of the volumes of the smaller pistons/plungers and the amount of water in the larger piston/plunger is equal to the combined volumes of the water in the smaller pistons/plungers.</para>
+    </section>
+  </content>
+</document>

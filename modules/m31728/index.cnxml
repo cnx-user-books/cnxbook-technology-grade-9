@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>How valves function in hydraulic systems</title>
+  <metadata>
+  <md:content-id>m31728</md:content-id><md:title>How valves function in hydraulic systems</md:title>
+  <md:abstract/>
+  <md:uuid>95c2ffc4-0452-40f1-bca8-ca21e662ba9d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7365568">
+      <title/>
+      <para id="para-id7365568">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9440921">
+      <title>TECHNOLOGY</title>
+      <para id="para-id9440921">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7221756">
+      <title>Grade 9</title>
+      <para id="para-id7221756">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9463175">
+      <title>HYDRAULIC AND PNEUMATIC SYSTEMS</title>
+      <para id="para-id9463175">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4370468">
+      <title>Module 12</title>
+      <para id="para-id4370468">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12586146">
+      <title>How valves function in hydraulic systems</title>
+      <para id="id12578092">ACTIVITY 1: </para>
+      <para id="id4557357">To be able to describe the functioning of valves in hydraulic systems</para>
+      <para id="id9161490">[LO 2.3] </para>
+      <para id="id11547747">The simplest valve is the one-way valve. It is used to keep the piston that moved up as a result of pressure on the hydraulic liquid, in position.</para>
+      <para id="id10404828">The valve is necessary because unlike gases, liquid cannot be compressed. The functioning of a valve can be explained as follows:</para>
+      <para id="id12167656">1. In the figure a force is exerted on the piston of cylinder A and is transmitted through the liquid as pressure. This causes cylinder B to rise and to experience a force.</para>
+      <para id="id4494651">
+        <figure id="id10191866">
+          <media id="id10191866_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-0ff2.png" id="id10191866__onlineimage" height="223" width="610"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id3971500">Should the force be removed, piston B will fall back again. </para>
+      <para id="id15182320">2. This can be prevented by using a valve that moves to the right when the force is exerted on piston A and moves to the left when the force is removed.</para>
+      <figure id="id4851040">
+        <media id="id4851040_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-6a2e.png" id="id4851040__onlineimage" height="210" width="624"/>
+        </media>
+      </figure>
+      <para id="id9425446">Pressure is distributed to the right through liquid and then the valve also moves to the right.</para>
+      <para id="id11860871">3. When pressure is no longer being exerted, the liquid recedes and the spring then forces the valve to move to the left.</para>
+      <para id="id14866522">
+        <figure id="id5624823">
+          <media id="id5624823_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-1342.png" id="id5624823__onlineimage" height="226" width="650"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id11938100">The valve closes as a result of the liquid that recedes when the force is removed and this allows the spring to push the valve to the left.</para>
+      <para id="id5619258">Questions</para>
+      <para id="id5619262">Study figures 1 and 2 and answer the questions:</para>
+      <figure id="id12564254">
+        <media id="id12564254_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-9632.png" id="id12564254__onlineimage" height="501" width="303"/>
+        </media>
+      </figure>
+      <para id="id7212180">
+        <figure id="id3971844">
+          <media id="id3971844_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5.png" id="id3971844__onlineimage" height="563" width="484"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id9734942">A single hydraulic jack consists of a small input piston, A, and a larger output piston, B. The oil is stored in the reservoir and is let into the system at point C.</para>
+      <para id="id9732750">A small force is exerted on the small area of the input piston, A, through the action of the lever. This causes a small amount of oil to move from the reservoir into the main cylinder, D. The one-way valve prevents the piston, B from moving back after the first pumping action, and in this way a great force is lifted little by little gradually lifting the car.</para>
+      <para id="id9436674">1. What is the function of the valves in both figure 1 and figure 2?</para>
+      <para id="id11881267"/>
+      <para id="id11881271">2. Why must the lever move back and forth in order to raise piston, B to the top?</para>
+      <para id="id12474036"/>
+      <para id="id5618645">3. Why is the diameter of the input cylinder smaller than that of the output cylinder?</para>
+      <para id="id4261169"/>
+    </section>
+    <section id="id12285320">
+      <title>Assessment</title>
+      <table id="id12397617" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2</entry>
+            </row>
+            <row>
+              <entry>TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDINGThe learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>systems and control:2.3 demonstrates knowledge and understanding of interacting mechanical systems and sub-systems by practical analysis and represents them using systems diagrams:gear systemsbelt drive or pulley systems with more than one stage;mechanical control mechanisms (e.g. ratchet and pawl, cleats);pneumatic or hydraulic systems that use restrictorsone-way valves;systems where mechanical, electrical, or pneumatic or hydraulic systems are combined.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id9350792">
+      <title>Memorandum</title>
+      <para id="id7367515">ACTIVITY 1</para>
+      <para id="id9499253">1. Prevents the reverse flow of the liquid/fluid so that the piston/plunger remains in position and the pressure is maintained.</para>
+      <para id="id11385170">2. When the lever moves upwards, a small amount of oil is released from the reservoir to the small cylinder.</para>
+      <para id="id4746061">When the lever moves downwards and input force is brought to bear on the small cylinder, the oil flows through the one-way valve to the large cylinder. The pressure is propagated through the liquid according to Pascal's principle and provides a great output force on the large cylinder.</para>
+      <para id="id12494247">When the lever is raised again, the one-way valve shuts and the oil is unable to flow back. This maintains the power advantage. The process is repeated from the beginning.</para>
+      <para id="id9442262">3. A small force on a small cylinder provides great force on a large cylinder.</para>
+      <para id="id11807427"/>
+    </section>
+  </content>
+</document>

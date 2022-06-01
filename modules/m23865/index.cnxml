@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Orthographic projections in drawings</title>
+  <metadata>
+  <md:content-id>m23865</md:content-id><md:title>Orthographic projections in drawings</md:title>
+  <md:abstract/>
+  <md:uuid>5c0e2271-3432-4cec-b212-f5c776666caa</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166834293297">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1166834293297">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166834624390">
+      <title>Grade 9</title>
+      <para id="para-id1166834624390">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8146044">
+      <title>ARCHITECTURAL PLANNING</title>
+      <para id="para-id8146044">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166832389050">
+      <title>Module 8</title>
+      <para id="para-id1166832389050">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166828606996">
+      <title>ORTHOGRAPHIC PROJECTIONS IN DRAWINGS</title>
+      <para id="id5000780">Activity 1: </para>
+      <para id="id1166832759486">To be able to distinguish between types of lines that are used in drawings</para>
+      <list id="id1166824995066" list-type="bulleted">
+        <item>Several different types of line are used to make drawings clearly understandable. . The appearance of a final drawing will depend on the quality of the lines drawn, so it is certainly worth taking care in this area.</item>
+      </list>
+      <para id="id1166827989918"/>
+      <para id="id1166836687768">Orthographic projection: First Angle and Third Angle Projection. The views in both will be the same but the projection on paper differs. The symbols below are used on drawings to indicate which projection is used.</para>
+      <figure id="id1166826173907">
+        <media id="id1166826173907_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-c3ab.png" id="id1166826173907__onlineimage" height="108" width="223"/>
+        </media>
+      </figure>
+      <para id="id1166834336946">First angle projection symbol</para>
+      <figure id="id2268562">
+        <media id="id2268562_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-cd87.png" id="id2268562__onlineimage" height="109" width="214"/>
+        </media>
+      </figure>
+      <para id="id1166827623480">Third angle projection symbol</para>
+      <list id="id1166833926386" list-type="bulleted">
+        <item>For this exercise we will only look at First Angle Projection. Your educator will provide you with grid paper which makes it easier for you to draw. If you have drawing equipment it is even better.</item>
+      </list>
+      <list id="id1166829670255" list-type="bulleted">
+        <item>Always start by drawing the front elevation since this will determine the position of the other views. The plan view is drawn below the front elevation, and the end views on the side furthest away from their position on the front view. Each view only shows two dimensions and together they combine to give a three-dimensional description of the object.</item>
+      </list>
+      <list id="id1166833112809" list-type="bulleted">
+        <item>The example below illustrates Orthographic views in the first angle projection.</item>
+      </list>
+      <para id="id1166828816947">Focus task a</para>
+      <list id="id1166828102991" list-type="bulleted">
+        <item>Draw a first angle projection of your space case on scale 1:2</item>
+      </list>
+      <figure id="id1166838015789">
+        <media id="id1166838015789_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-709e.png" id="id1166838015789__onlineimage" height="105" width="112"/>
+        </media>
+      </figure>
+      <para id="id1166826871091"/>
+      <para id="id2211539">END A ELEVATION</para>
+      <figure id="id1166825044360">
+        <media id="id1166825044360_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-2c10.png" id="id1166825044360__onlineimage" height="104" width="216"/>
+        </media>
+      </figure>
+      <para id="id1304341">FRONT ELEVATION</para>
+      <figure id="id1166828596816">
+        <media id="id1166828596816_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-2c7b.png" id="id1166828596816__onlineimage" height="105" width="110"/>
+        </media>
+      </figure>
+      <para id="id1166833076449">END B ELEVATION</para>
+      <figure id="id1166828706092">
+        <media id="id1166828706092_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-8f22.png" id="id1166828706092__onlineimage" height="107" width="218"/>
+        </media>
+      </figure>
+      <para id="id1166828800798">PLAN</para>
+      <table id="id1166831402130" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 1.5</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>LO 1.9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166826378358">Activity 2: </para>
+      <para id="id1166827578784">To be able to draw dimension drawings</para>
+      <list id="id1166828712796" list-type="bulleted">
+        <item>Drawings need to be dimensioned to show what the size of the object is in real live. The dimensions should be the real dimensions of the object. There are international rules for the application of dimensions:</item>
+      </list>
+      <list id="id1166838630567" list-type="bulleted">
+        <item>All dimensions should be read from the bottom or right-hand side of the paper</item>
+        <item>Limit lines should be drawn out from the object and numbers written above the dimensioning lines stretching between these</item>
+        <item>Smaller measurements should be placed closer to the drawing</item>
+      </list>
+      <para id="id1166835291391">Study these examples:</para>
+      <figure id="id3666874">
+        <media id="id3666874_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-62c3.png" id="id3666874__onlineimage" height="230" width="407"/>
+        </media>
+      </figure>
+      <para id="id3710538">diameters</para>
+      <figure id="id1166833808107">
+        <media id="id1166833808107_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-8633.png" id="id1166833808107__onlineimage" height="231" width="191"/>
+        </media>
+      </figure>
+      <para id="id1781986">RADII</para>
+      <figure id="id1166839600595">
+        <media id="id1166839600595_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-4d73.png" id="id1166839600595__onlineimage" height="202" width="361"/>
+        </media>
+      </figure>
+      <para id="id1166837742962">POSITION OF HOLES</para>
+      <figure id="id1166837446029">
+        <media id="id1166837446029_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-4ef3.png" id="id1166837446029__onlineimage" height="196" width="163"/>
+        </media>
+      </figure>
+      <para id="id1166826876179">SIZE OF HOLES</para>
+      <table id="id4087519" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 1.15</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1166836656506">
+      <title>Assessment</title>
+      <table id="id7513741" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Learning outcomes(LOs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LO 1</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL PROCESSES AND SKILLS</emphasis>The learner will be able to apply technological processes and skills ethically and responsibly using appropriate information and communication technology.</entry>
+            </row>
+            <row>
+              <entry>Assessment standards(ASs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>investigates:1.1 identifies and explains a problem, need or opportunity from a real-life context, and investigates the context, the nature of the need, the environmental situation, and the people concerned;</entry>
+            </row>
+            <row>
+              <entry>1.4 uses a variety of available technologies and methods to:<list id="id1166836245890" list-type="bulleted"><item>locate (e.g. use library referencing system, database searches, indexes);</item><item>collect (questionnaires, data collection forms, requests for information, information searches, literature surveys);</item><item>compare;</item><item>sort;</item><item>verify;</item><item>evaluate;</item><item>store information;</item></list></entry>
+            </row>
+            <row>
+              <entry>designs:1.5 writes or communicates a short and clear statement or a design brief for the development of a product or system related to a context, problem, need or opportunity that has been identified by self;</entry>
+            </row>
+            <row>
+              <entry>1.6 lists product specifications and design specifications and constraints for a solution to an identified problem, need or opportunity based on all of the design key words listed below:<list id="id6898011" list-type="bulleted"><item>people, age, target market, human rights, access;</item><item>purpose, function, what the product will do;</item><item>appearance and aesthetics: form, colour, shape, feel;</item><item>environment: where product will be used or made, impact on the environment in the long and short term;</item><item>safety: for users and manufacturers;</item><item>cost, cost of materials, wastage, cost of manufacture, maximum selling price;</item><item>ergonomics;</item><item>quality;</item><item>production;</item></list></entry>
+            </row>
+            <row>
+              <entry>1.7 generates a range of possible solutions that are significantly different from each other, and that show clear links to the design brief and specifications and constraints;</entry>
+            </row>
+            <row>
+              <entry>makes:1.9 develops plans for making that include all of the following:<list id="id1166833505619" list-type="bulleted"><item>resource lists (e.g. materials lists, tools, people, cost);</item><item>formal drawings showing dimensions or quantities (e.g. orthographic, oblique or isometric views, sequence drawings, exploded views);</item><item>manufacturing sequence;</item></list></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>

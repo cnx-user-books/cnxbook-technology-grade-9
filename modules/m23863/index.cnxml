@@ -1,0 +1,218 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Structures</title>
+  <metadata>
+  <md:content-id>m23863</md:content-id><md:title>Structures</md:title>
+  <md:abstract/>
+  <md:uuid>e74fe9e3-4493-4623-aff2-4bcebc7a9d50</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165286832631">
+      <title>TECHNOLOGY</title>
+      <para id="para-id1165286832631">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165298557928">
+      <title>Grade 9</title>
+      <para id="para-id1165298557928">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165287148962">
+      <title>ARCHITECTURAL PLANNING</title>
+      <para id="para-id1165287148962">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165294099142">
+      <title>Module 6</title>
+      <para id="para-id1165294099142">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165296201342">
+      <title>STRUCTURES</title>
+      <para id="id1165291941377">Activity 1: </para>
+      <para id="id8721434">To be able to explain the term ‘structure’.</para>
+      <para id="id2463839">A structure can be defined as a body that can resist applied forces without changing its shape or size, apart from the deformations due to the elasticity of the materials from which it is made. </para>
+      <para id="id6513372">In order to design safe, efficient structures we need to understand the effects of forces. The study of forces at rest is called <emphasis effect="bold">statics</emphasis>, while <emphasis effect="bold">dynamics</emphasis> refers to the study of forces on bodies in motion. </para>
+      <para id="id8823460">The main function of a structure is to transmit forces from one place to another. If you sit on a stool, it transmits your weight to the floor. If you walk across a bridge, the bridge transmits the weight to the banks. Objects that serve as structures can have additional purposes. </para>
+      <figure id="id1165294345168">
+        <media id="id1165294345168_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-5644.png" id="id1165294345168__onlineimage" height="139" width="374"/>
+        </media>
+      </figure>
+      <para id="id1165288781253">
+        <figure id="id1165296095537">
+          <media id="id1165296095537_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-24d3.png" id="id1165296095537__onlineimage" height="154" width="419"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id7239435">The walls of a house form a structure for transmitting various forces to the ground but together with the roof they also provide shelter from the elements. Later in this module you are going to design and make an additional building (classroom) for your school. Your design will involve aesthetic as well as technical considerations. You will try to give your structure an attractive appearance so as to enrich the environment.</para>
+      <para id="id7173708">Focus task A</para>
+      <para id="id1165286716493">1. Explain in your own words what a structure is.</para>
+      <para id="id5100978">2. Give examples of structures in your immediate environment.</para>
+      <para id="id1165291673909">3. Make a list of all possible purposes of structures that you can think of. In each case give an example of a structure to explain how the purpose is served.</para>
+      <table id="id8626252" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165287905041">Activity 2: </para>
+      <para id="id4534735">To be able to distinguish between different types of structures</para>
+      <para id="id1165287913738"><emphasis effect="bold">Mass structures</emphasis>: These are solid structures such as gravity dams that resist the applied forces by virtue of their own weight.</para>
+      <para id="id1165297705623"><emphasis effect="bold">Frame structures:</emphasis> Bars are joined together at their ends to form a framework, often called skeletal structures. If the bars all lie in the same plane they are termed “plane frames” but if they extend in three dimensions we use the term “space frames”. It is often necessary to cover a space frame with some form of sheet material e.g. a tall building cladded with glass.</para>
+      <para id="id1165286669268"><emphasis effect="bold">Shells</emphasis>: In contrast to frame structures a shell transmits the forces imposed on it through the sheet material of which it is made. Many items like cars were previously designed as a frame (chassis) covered with sheet materials. These days they are designed as shells with the forces being transmitted by the sheet material forming the skin (<emphasis effect="italics">monocoque construction</emphasis>). The shell is often reinforced with stiffeners that help to preserve its shape and thereby add to its strength. A study of the strength of materials is included in engineering courses as a subject called <emphasis effect="italics">mechanics</emphasis><emphasis effect="italics">of solids.</emphasis></para>
+      <para id="id1165286975663">Focus task B</para>
+      <list id="id1165291773473" list-type="bulleted">
+        <item>Make sketches of examples in your environment of the following:</item>
+      </list>
+      <para id="id1165286855129">1. Mass Structure</para>
+      <para id="id1165294538175">2. Plane frame</para>
+      <para id="id1165285995754">3. Space frame</para>
+      <para id="id1165295809158">4. Monocoque construction</para>
+      <table id="id1165286184402" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165291302191">5. Produce an information sheet on materials that can be used as sheet material for buildings.</para>
+      <para id="id1165296870676">6. What does “reinforced” mean?</para>
+      <para id="id1165298586446">7. Give examples of reinforced materials.</para>
+      <table id="id1165286527536" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LO 2.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165295543135">
+      <title>Assessment</title>
+      <table id="id5643359" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LO 2</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">TECHNOLOGICAL KNOWLEDGE AND UNDERSTANDING</emphasis>The learner will be able to understand and apply relevant technological knowledge ethically and responsibly.</entry>
+            </row>
+            <row>
+              <entry>We know this when the learner:</entry>
+            </row>
+            <row>
+              <entry>structures:2.1 demonstrates knowledge and understanding of structures:<list id="id1165287220622" list-type="bulleted"><item>properties of materials that affect their performance in structures;</item><item>analysis of the effects of different loads;</item></list></entry>
+            </row>
+            <row>
+              <entry>processing:2.2 demonstrates knowledge and understanding of how materials can be processed to change or improve properties (life-span), and how recyclable materials can be re-manufactured.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165294574352">
+      <title/>
+      <para id="para-id1165294574352">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165288504492">
+      <title>Memorandum</title>
+      <para id="id1165288832812">Focus task A</para>
+      <para id="id1165286485540">1. Learners must show a clear understanding of what a structure is. Activity 1 explains what a structure is.</para>
+      <para id="id7988553">2. Any structure from natural to man-made example. Houses, roofs, birds’ nests, bicycle frame, caves, etc.</para>
+      <para id="id1988045">3. Supports – ladder, chairsProtects – House, birds nestsContains - Swimming pool, shopping bagSpans distances – bridge, washing line</para>
+      <para id="id8524301">Focus task B</para>
+      <para id="id4661428">1 Dam walls, reservoirs</para>
+      <para id="id1165288181066">2 Bicycle frame</para>
+      <para id="id8013363">3 Electric power supply tower</para>
+      <para id="id1165286896484">4 Car, e.g. Volvo</para>
+      <para id="id8434034">5. This sheet must contain information on sheet material such as glass, board products, metal products which are used by builders nowadays. The learners need to do research on this assignment.</para>
+      <para id="id1165290391392">6. The term means that a material has been made stronger by adding a material of strength in its structure. In most concrete buildings these days metal rods reinforce the concrete.</para>
+      <para id="id1165292406160">7. Reinforced concreteWood, e.g. plywoodGlass that contains metal strips </para>
+    </section>
+  </content>
+</document>
