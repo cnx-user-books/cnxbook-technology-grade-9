@@ -1,3 +1,41 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11071</md:content-id>  <md:title>Technology Grade 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>1d2ecb57-1033-4ddc-bf38-d5d9053605f3</md:uuid>
-<md:slug>technology-grade-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m23852"/>                            <col:module document="m23853"/>                            <col:module document="m23856"/>                            <col:module document="m31950"/>                            <col:module document="m23860"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m23863"/>                            <col:module document="m23864"/>                            <col:module document="m23865"/>                            <col:module document="m23868"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Terms 3 and 4</md:title>                                <col:content>                    <col:module document="m31720"/>                            <col:module document="m31723"/>                            <col:module document="m31728"/>                            <col:module document="m31730"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11071</md:content-id>
+    <md:title>Technology Grade 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1d2ecb57-1033-4ddc-bf38-d5d9053605f3</md:uuid>
+    <md:slug>technology-grade-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m23852"/>
+        <col:module document="m23853"/>
+        <col:module document="m23856"/>
+        <col:module document="m31950"/>
+        <col:module document="m23860"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m23863"/>
+        <col:module document="m23864"/>
+        <col:module document="m23865"/>
+        <col:module document="m23868"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Terms 3 and 4</md:title>
+      <col:content>
+        <col:module document="m31720"/>
+        <col:module document="m31723"/>
+        <col:module document="m31728"/>
+        <col:module document="m31730"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
